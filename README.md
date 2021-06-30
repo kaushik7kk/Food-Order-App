@@ -36,6 +36,9 @@ This screen lets you access the major application features including:
 ![UI-4](https://github.com/kaushik7kk/Food-Order-App/blob/main/UI-4.png)
 
 
+The + and - buttons help increase or decrease the amount of specific items in the list.
+
+
 
 
 
